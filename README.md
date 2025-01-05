@@ -4,6 +4,8 @@
 ## Project Overview
 This project focuses on developing a neural network model capable of identifying flower species from images. The model is designed to handle both clear and blurred images, applying image processing techniques to enhance image quality where necessary before making predictions.
 
+<img src="image.png">
+
 ## Features
 - **Image Processing:** Incorporates techniques to detect and correct blurriness in flower images using Fast Fourier Transform (FFT) and other advanced methods.
 - **Deep Learning Model:** Utilizes a convolutional neural network (CNN) architecture to classify flowers into various species.
