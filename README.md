@@ -41,7 +41,7 @@ The dataset consists of flower images categorized by species, stored under the `
 The model uses a series of convolutional, max pooling, and dense layers to process and classify images. Data augmentation techniques such as rotation and zoom are applied to train the model effectively.
 
 
-### Flower Vision Model Highlights and Actionable Improvement Areas
+## Flower Vision Model Highlights and Actionable Improvement Areas
 
 **Flower Vision** achieves high classification accuracy and robustness in recognizing a wide range of flower species, even from blurred images, using advanced image processing and convolutional neural networks.
 
